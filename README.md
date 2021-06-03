@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesdiego12&color=green" alt="lopesdiego12 " /> </p>
 
 
-- In love Data Engineer Stack. :heart: 
+- In love in Data Engineer Stack. :heart: 
 - Skills:
   - Apache Airlfow
   - AWS, Azure, Google Cloud 
