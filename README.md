@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> <img src="https://i.pinimg.com/originals/98/2e/3e/982e3e370126794ad88a04af97350679.gif" width="280px"> <br> I am Diego Lopes. </h1>
-<h3 align="center">Tech Lead - Data Engineer @datasprints </h3>
+<h3 align="center">Data Manager at Americanas </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopesdiego12&color=green" alt="lopesdiego12 " /> </p>
 
 
